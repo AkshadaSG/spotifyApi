@@ -1,0 +1,16 @@
+{
+  "local": {
+    "username": "postgres",
+    "password": "Galaxy@13",
+    "database": "spotifyartist",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "development": {
+    "username": "postgres",
+    "password": "Galaxy@13",
+    "database": "spotifyartist",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
